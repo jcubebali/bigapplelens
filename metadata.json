@@ -1,0 +1,6 @@
+{
+  "name": "BigApple Lens",
+  "description": "Capture Your New York Moment - Luxury Travel Photography",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
